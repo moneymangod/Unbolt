@@ -1,0 +1,8 @@
+pyflp
+python-pptx
+pillow
+numpy
+imageio-ffmpeg
+zstandard
+tkinterdnd2
+pyinstaller
